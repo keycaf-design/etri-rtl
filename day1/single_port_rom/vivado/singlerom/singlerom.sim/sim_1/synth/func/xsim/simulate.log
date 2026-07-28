@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+TEST PASS
+$finish called at time : 1185 ns : File "C:/project/etri/w6/exam_day1/single_port_rom/bench/tb_singleportrom_ctl.sv" Line 46

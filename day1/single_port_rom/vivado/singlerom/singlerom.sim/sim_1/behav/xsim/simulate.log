@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module tb_singleportrom_ctl.dut.u_blk_mem_gen_0.inst.native_mem_module.blk_mem_gen_v8_4_12_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+TEST FAIL: data_out = 99
+$finish called at time : 1175 ns : File "C:/project/etri/w6/day1/single_port_rom/bench/tb_singleportrom_ctl.sv" Line 46

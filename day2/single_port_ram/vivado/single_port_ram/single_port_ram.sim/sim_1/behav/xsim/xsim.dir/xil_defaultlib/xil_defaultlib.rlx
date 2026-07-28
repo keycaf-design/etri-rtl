@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/project/etri/w6/day2/single_port_ram/bench/tb_single_port_ram_ctl.sv,1785218095,systemVerilog,,,,tb_single_port_ram_ctl,,uvm,../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/project/etri/w6/day2/single_port_ram/rtl/single_port_ram_ctl.sv,1785218069,systemVerilog,,C:/project/etri/w6/day2/single_port_ram/bench/tb_single_port_ram_ctl.sv,,single_port_ram_ctl,,uvm,../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/project/etri/w6/day2/single_port_ram/vivado/single_port_ram/single_port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1785211042,verilog,,,,blk_mem_gen_0,,uvm,../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/project/etri/w6/day2/single_port_ram/vivado/single_port_ram/single_port_ram.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,
