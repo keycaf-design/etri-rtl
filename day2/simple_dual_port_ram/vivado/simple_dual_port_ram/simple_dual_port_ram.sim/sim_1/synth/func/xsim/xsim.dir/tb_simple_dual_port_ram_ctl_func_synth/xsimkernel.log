@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_simple_dual_port_ram_ctl_func_synth/xsimk.exe -simmode gui -wdb tb_simple_dual_port_ram_ctl_func_synth.wdb -simrunnum 0 -socket 59290
+Design successfully loaded
+Design Loading Memory Usage: 11768 KB (Peak: 11768 KB)
+Design Loading CPU Usage: 15 ms
