@@ -1,4 +1,0 @@
-Running: xsim.dir/tb_single_port_ram_ctl_behav/xsimk.exe -simmode gui -wdb tb_single_port_ram_ctl_behav.wdb -simrunnum 0 -socket 49328
-Design successfully loaded
-Design Loading Memory Usage: 11332 KB (Peak: 11332 KB)
-Design Loading CPU Usage: 46 ms

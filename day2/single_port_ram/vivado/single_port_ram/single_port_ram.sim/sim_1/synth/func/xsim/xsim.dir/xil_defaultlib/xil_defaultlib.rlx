@@ -1,6 +1,0 @@
-0.7
-2020.2
-Nov 14 2025
-19:37:27
-C:/project/etri/w6/day2/single_port_ram/bench/tb_single_port_ram_ctl.sv,1785218095,systemVerilog,,,,tb_single_port_ram_ctl,,uvm,../../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/project/etri/w6/day2/single_port_ram/vivado/single_port_ram/single_port_ram.sim/sim_1/synth/func/xsim/tb_single_port_ram_ctl_func_synth.v,1785218539,verilog,,,,blk_mem_gen_0;blk_mem_gen_0_blk_mem_gen_generic_cstr;blk_mem_gen_0_blk_mem_gen_prim_width;blk_mem_gen_0_blk_mem_gen_prim_wrapper;blk_mem_gen_0_blk_mem_gen_top;blk_mem_gen_0_blk_mem_gen_v8_4_12;blk_mem_gen_0_blk_mem_gen_v8_4_12_synth;glbl;single_port_ram_ctl,,uvm,../../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
