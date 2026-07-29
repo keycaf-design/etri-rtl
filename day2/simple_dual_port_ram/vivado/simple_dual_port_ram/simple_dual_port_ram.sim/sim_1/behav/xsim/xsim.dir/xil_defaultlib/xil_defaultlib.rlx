@@ -1,8 +1,0 @@
-0.7
-2020.2
-Nov 14 2025
-19:37:27
-C:/project/etri/w6/day2/simple_dual_port_ram/bench/tb_simple_dual_port_ram_ctl.sv,1785230836,systemVerilog,,,,tb_simple_dual_port_ram_ctl,,uvm,../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/project/etri/w6/day2/simple_dual_port_ram/rtl/simple_dual_port_ram_ctl.sv,1785232398,systemVerilog,,C:/project/etri/w6/day2/simple_dual_port_ram/bench/tb_simple_dual_port_ram_ctl.sv,,simple_dual_port_ram_ctl,,uvm,../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/project/etri/w6/day2/simple_dual_port_ram/vivado/simple_dual_port_ram/simple_dual_port_ram.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1785222590,verilog,,,,blk_mem_gen_0,,uvm,../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef,,,,,
-C:/project/etri/w6/day2/simple_dual_port_ram/vivado/simple_dual_port_ram/simple_dual_port_ram.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,uvm,,,,,,

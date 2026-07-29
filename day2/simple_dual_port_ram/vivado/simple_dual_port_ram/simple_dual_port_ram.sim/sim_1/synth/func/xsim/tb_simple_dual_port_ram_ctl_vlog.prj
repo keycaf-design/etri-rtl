@@ -1,9 +1,0 @@
-# compile verilog/system verilog design source files
-verilog xil_defaultlib  --include "../../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef" \
-"tb_simple_dual_port_ram_ctl_func_synth.v" \
-
-sv xil_defaultlib  --include "../../../../../../../../../../../../AMDDesign/2025.2/Vivado/data/rsb/busdef" \
-"../../../../../../../bench/tb_simple_dual_port_ram_ctl.sv" \
-
-# Do not sort compile order
-nosort
